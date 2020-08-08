@@ -42,7 +42,7 @@
     background: none;
     border: 0;
     color: var(--color-primary);
-    font: 1.6rem Archivo;
+    font: 700 1.6rem Archivo;
     cursor: pointer;
     transition: color 0.2s;
 
